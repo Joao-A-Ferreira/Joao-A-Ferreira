@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joao-A-Ferreira
-- 💞️ +1 I’m looking to collaborate on BySide
+- :+1: I’m looking to collaborate on BySide
 - 📫 How to reach me joao.araujo.ferreira1@gmail.com
 
 <!---
@@ -23,7 +23,9 @@ You can click the Preview link to take a look at your changes.
  
  -Têm tamanho igual a soma do tamanho dos ficheiros que contem <br>
  
-### Ficheiros .Tipos de ficheiros <br>
+### Ficheiros <br>
+
+ -Tipos de ficheiros <br>
 
  -Data de Criação, Modificação e Ultimo Acesso <br>
  
