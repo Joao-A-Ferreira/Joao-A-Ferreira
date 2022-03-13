@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 ## Diagrama Classes
 ## Modelo Relacional
 ![Modelo Relacional2](https://user-images.githubusercontent.com/101523889/158077556-407d8329-b34f-4a6f-9c07-2f2014253fba.png)
+
 -Nomes são unicos, definem a localização
 -Pastas .Chave composta nome e localização
         .Podem conter outras pastas e/ou ficheiros
