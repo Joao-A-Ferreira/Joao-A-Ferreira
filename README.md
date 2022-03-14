@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 ## Diagrama Classes
 
 ## Modelo Relacional
-![Modelo Relacional2](https://user-images.githubusercontent.com/101523889/158077556-407d8329-b34f-4a6f-9c07-2f2014253fba.png)
+
+![Modelo Relacional2](https://user-images.githubusercontent.com/101523889/158222610-764f6b3c-d75c-4569-a7bd-878b0eb1f261.png)
 
  - Nomes são unicos, definem a localização <br>
 
