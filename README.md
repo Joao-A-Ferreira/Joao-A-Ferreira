@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 ## Diagrama Arquitetura
 
 ## Diagrama Classes
+![Diagrama Classes](https://user-images.githubusercontent.com/101523889/158227395-851939b3-0cc0-4fe2-afd4-b57277fbf37c.png)
 
 ## Modelo Relacional
 
