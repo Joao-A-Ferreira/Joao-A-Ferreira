@@ -6,8 +6,7 @@
 Joao-A-Ferreira/Joao-A-Ferreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Diagrama Arquitetura
-
+## Descrição Problema 
 ## Diagrama Classes
 ![Diagrama Classes](https://user-images.githubusercontent.com/101523889/158227395-851939b3-0cc0-4fe2-afd4-b57277fbf37c.png)
 
@@ -33,3 +32,6 @@ You can click the Preview link to take a look at your changes.
  
  - Localização contem a localizacao da pasta <br>
 
+## Physical Data Model
+
+![123umacolherdecadavez](https://user-images.githubusercontent.com/101523889/158421455-94a676c7-8a26-4598-8825-b667f03c4d8d.png)
