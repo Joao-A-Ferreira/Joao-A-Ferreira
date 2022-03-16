@@ -6,8 +6,9 @@
 Joao-A-Ferreira/Joao-A-Ferreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 ## Diagrama Classes
-![Diagrama Classes](https://user-images.githubusercontent.com/101523889/158227395-851939b3-0cc0-4fe2-afd4-b57277fbf37c.png)
+![Diagrama Classes](https://user-images.githubusercontent.com/101523889/158468876-b8920035-6034-4558-be44-f6f55911fc40.png)
 
 ## Modelo Relacional
 
