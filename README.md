@@ -34,4 +34,4 @@ You can click the Preview link to take a look at your changes.
 
 ## Physical Data Model
 
-![123umacolherdecadavez](https://user-images.githubusercontent.com/101523889/158421455-94a676c7-8a26-4598-8825-b667f03c4d8d.png)
+![123umacolherdecadavez](https://user-images.githubusercontent.com/101523889/158590041-74dbad79-8589-479a-84c9-3f584b125bad.png)
